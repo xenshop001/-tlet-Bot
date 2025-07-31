@@ -1,5 +1,5 @@
 Discord ötlet bot
-(support)[https://discord.gg/43QuRqqUgV]
+support:https://discord.gg/43QuRqqUgV
 Ez a Discord bot a közösségi ötletek kezelésére szolgál a FiveM szerverek számára. A tagok könnyedén küldhetnek be ötleteket, amelyeket a bot egy kijelölt csatornára továbbít. A fejlesztők ezután jóváhagyhatják vagy elutasíthatják az ötleteket, és a bot automatikusan értesíti a beküldő felhasználót az eredményről.
 
 Funkciók:
